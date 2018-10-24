@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "558132335516",
+    "firebase_url": "https://noelmedia-2a232.firebaseio.com",
+    "project_id": "noelmedia-2a232",
+    "storage_bucket": "noelmedia-2a232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558132335516:android:56d034c165397914",
+        "android_client_info": {
+          "package_name": "com.example.administrator.mynoelmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558132335516-ekjt6r1qjhl65m4tj6kj0f5jj4emgoul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.mynoelmedia",
+            "certificate_hash": "2776a06bcaaf9071e20943c7548d4c275632a661"
+          }
+        },
+        {
+          "client_id": "558132335516-dq9qvdgqv7f9pf69p9hpvmbctjvae1ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANYNtB820dV9jZ2_BqOZXoaR99A1VCUmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558132335516-dq9qvdgqv7f9pf69p9hpvmbctjvae1ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
